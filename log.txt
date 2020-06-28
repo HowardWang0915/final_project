@@ -1,0 +1,131 @@
+Go straight
+data matrix
+Turn left
+Go Foward
+46.091843 meters to the wall
+Reverse Parking
+Turn Right
+image classification
+This is: 3
+send
+Snapshot
+Leaving the parking lot
+Leaving mission 1 area
+Go Straight
+Turn Right
+Going into mission 2
+Going to the corresponding position
+Detecting Objects
+Right Triangle
+funcking piec of shit
+Leaving mission 2
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
++++ATMY 0x140
+ATDL 0x240
+ATID 0x1
+ATWR
+
+/getAction/run/getAction/run/getAction/run/getAction/runGo straight
+data matrix
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runGo Foward
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runimage classification
+This is: 0
+send
+Snapshot
+Leaving mission 1 area
+Turn Right
+Going into mission 2
+Going to the corresponding position
+Detecting Objects
+Square
+funcking piec of shit
+Leaving mission 2
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runTurn left
+/getAction/run/getAction/runGo Foward
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run16.284369 meters to the wall
+Reverse Parking
+/getAction/run/getAction/run/getAction/run+++ATMY 0x140
+/getAction/runATDL 0x240
+ATID 0x1
+ATWR
+ATMY
+ATDL
+ATCN
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runTurn Right
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runimage classification
+/getAction/run/getAction/run/getAction/run/getAction/runThis is: 4
+send
+Snapshot
+/getAction/run/getAction/runLeaving the parking lot
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runLeaving mission 1 area
+/getAction/run/getAction/runGo Straight
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runTurn Right
+/getAction/run/getAction/run/getAction/runGoing into mission 2
+/getAction/runGoing to the corresponding position
+/getAction/run/getAction/run/getAction/run/getAction/runDetecting Objects
+/getAction/run/getAction/run/getAction/run/getAction/runLeaving mission 2
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runGo straight
+data matrix
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runGo straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+Go straight
+data matrix
+/getAction/runTurn left
+Go Foward
+/getAction/runTurn Right
+image classification
+This is: 4
+send
+Snapshot
+Leaving the parking lot
+Leaving mission 1 area
+Go Straight
+Turn Right
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runGoing into mission 2
+Going to the corresponding position
+Detecting Objects
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runW Shape
+funcking piec of shit
+Leaving mission 2
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runGo straight
+data matrix
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/runGo straight
+data matrix
+Turn left
+Go Foward
+20.373161 meters to the wall
+Reverse Parking
+Turn Right
+image classification
+
+/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run/getAction/run
